@@ -26,10 +26,10 @@ Welcome to my Data Science practice repository, where I explore various datasets
      - **Testing Accuracy**: 77%  
    - **Objective**: To predict whether a person has diabetes based on health-related features.  
    
-   ## Key Steps  
-   1. **Data Preprocessing** – Cleaning and analyzing and visualizing the dataset to identify patterns.  
-   2. **Model Training** – Training the SVM model to classify individuals as diabetic or non-diabetic.  
-   3. **Model Evaluation** – Assessing model performance through accuracy metrics and analysis.  
+   **Key Steps**: 
+   - **Data Preprocessing** – Cleaning and analyzing and visualizing the dataset to identify patterns.
+   - **Model Training** – Training the SVM model to classify individuals as diabetic or non-diabetic.
+   - **Model Evaluation** – Assessing model performance through accuracy metrics and analysis.  
 
      
 ---
