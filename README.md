@@ -18,6 +18,20 @@ Welcome to my Data Science practice repository, where I explore various datasets
    - Model Training: Using Logistic Regression to classify sonar data.
    - Model Evaluation: Measuring accuracy, analyzing the results.
 
+# 2. **Diabetes Prediction**  
+   - **Dataset**: [Diabetes Dataset on Kaggle](https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset)  
+   - **Model Used**: Support Vector Machine (SVM)  
+   - **Performance**:  
+     - **Training Accuracy**: 78%  
+     - **Testing Accuracy**: 77%  
+   - **Objective**: To predict whether a person has diabetes based on health-related features.  
+   
+   ## Key Steps  
+   1. **Data Preprocessing** – Cleaning and analyzing and visualizing the dataset to identify patterns.  
+   2. **Model Training** – Training the SVM model to classify individuals as diabetic or non-diabetic.  
+   3. **Model Evaluation** – Assessing model performance through accuracy metrics and analysis.  
+
+     
 ---
 
 ### Future Notebooks
